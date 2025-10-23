@@ -1,5 +1,6 @@
 # Statistical-Inference-for-High-Dimensional-Models-with-Applications-to-Imaging-Genetics
 Statistical inference framework for high-dimensional models with applications in imaging genetics. Demonstrates methods like LASSO, Elastic Net, and Knockoff Filter for identifying genetic–imaging associations.
+
 📄 Overview
 
 This project presents a conceptual and methodological framework for performing statistical inference in high-dimensional models, with a specific focus on imaging–genetics applications. The goal is to explore how genetic variations influence brain imaging features and to establish a structured approach to identifying these associations using modern statistical tools.
